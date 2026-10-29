@@ -12,17 +12,6 @@ SysPulse OS is an academic project aligned with a six-unit Operating Systems syl
 - **Disk scheduling lab:** FCFS, SSTF, SCAN and C-SCAN ordering, head movement summary and chart.
 - **Kernel & Android:** selectable kernel architecture layers, three step-through request traces (file I/O, process creation/scheduling, and page-fault handling), Linux boot lifecycle, and Android platform layers.
 
-## Syllabus mapping
-
-| College unit | SysPulse OS module |
-|---|---|
-| I — OS overview, kernels, Linux shell | Overview + Kernel & Android |
-| II — processes, threads, CPU scheduling | Process manager + CPU Scheduling |
-| III — synchronization and deadlock | Deadlocks & Sync |
-| IV — memory management and virtual memory | Memory Lab |
-| V — file/I/O management and disk scheduling | Overview + Disk Scheduling |
-| VI — Linux kernel internals and Android | Kernel & Android |
-
 ## Technology stack
 
 - Frontend: React, Vite, Tailwind CSS, Recharts, Lucide
